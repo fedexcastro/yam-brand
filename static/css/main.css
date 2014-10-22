@@ -21,8 +21,9 @@ td {
     width: 100%
 }
 
-.yam-footer {
-    margin-top: 30px;
+#yam-footer {
+    padding-top: 30px;
+    background-color: #CDCDCD;
 }
 
 .social-networks {
