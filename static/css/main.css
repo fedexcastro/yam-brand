@@ -4,8 +4,33 @@
 
 #under-construction {
     margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 #yam-body {
-    background-image: url("../img/background.png");
+    background-color: #CDCDCD;
+}
+
+td {
+   text-align: center;
+   border: none;
+}
+
+.borderless {
+    border: none;
+    width: 100%
+}
+
+.yam-footer {
+    margin-top: 30px;
+}
+
+.social-networks {
+    border-radius: 8px 8px 0px 0px;
+    background-color: #000000;
+    padding: 20px;
+}
+
+.social-icon {
+    margin: auto;
 }
