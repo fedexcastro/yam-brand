@@ -1,0 +1,11 @@
+.center-block {
+    float: none;
+}
+
+#under-construction {
+    margin-top: 30px;
+}
+
+#yam-body {
+    background-image: url("../img/background.png");
+}
